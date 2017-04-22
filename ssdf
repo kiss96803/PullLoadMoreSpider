@@ -1,0 +1,25 @@
+	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus	FROM TBIZ_COPAM_BusinessInformation B (NOLOCK)		
+	     inner join wsp_1.dbo.WorkQueue W (NOLOCK) ON W.ProcessID = B.WorkflowID  
+		left join TBIZ_COPAM_Speaker S (NOLOCK)  ON B.Bus
